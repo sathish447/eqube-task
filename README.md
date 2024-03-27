@@ -1,5 +1,3 @@
-php artisan db:seed --class=RoleSeeder
-
 ############################
 Steps to Configure
 ############################
